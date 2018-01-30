@@ -8,7 +8,7 @@
 - M.S.(Cybersecurity): University of Delaware, Newark DE USA (2017-2019)
 - B. Tech.(Computer Sc. & Engg.): U. P. Technical Univerity, India (2010-2014)
 
-### **Technical Skills**
+### Technical Skills
 - Languages: Java, C, C++, SQL, R, Python
 - Databases: MySQL, Oracle 
 - Web Technologies: HTML, CSS, JavaScript, jQuery, Angular 
