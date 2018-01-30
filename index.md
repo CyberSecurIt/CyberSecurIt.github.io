@@ -5,7 +5,7 @@
 ## Introduction
 
 
-### Education**
+### Education
 - M.S.(Cybersecurity): University of Delaware, Newark DE USA (2017-2019)
 - B. Tech.(Computer Sc. & Engg.): U. P. Technical Univerity, India (2010-2014)
 
@@ -16,7 +16,7 @@
 - Software/Frameworks: Eclipse, JIRA, Microsoft Excel 
 - Additional Skills: ITIL, Project Management, Bash shell scripting, Adobe Photoshop CC
 
-```
+```javascript
 ## Projects
 
 Below is the list of some formally documented projects that I have worked on among other freelance projects.
@@ -25,7 +25,7 @@ Below is the list of some formally documented projects that I have worked on amo
 2. Command Line Minesweeper 
 3. secure Email
 
-### Link to Project Files (Google Drive)
+## Link to Project Files (Google Drive)
 [Project Files](https://drive.google.com/drive/u/1/folders/1yfZFyK21qba34eh3QVOfVZerYfcqbK9r/)
 
 ```
