@@ -4,11 +4,11 @@
 
 ## Introduction
 
-###**EDUCATION**
+### **EDUCATION**
 -Languages: Java, C, C++, SQL, R
 -Databases: MySQL, Oracle 
 
-###**TECHNICAL SKILLS**
+### **TECHNICAL SKILLS**
 -Languages: Java, C, C++, SQL, R
 -Databases: MySQL, Oracle 
 -Web Technologies: HTML, CSS, JavaScript, jQuery, Angular 
