@@ -4,16 +4,16 @@
 
 ## Introduction
 
-### **EDUCATION**
--Languages: Java, C, C++, SQL, R
--Databases: MySQL, Oracle 
+### **Education**
+- Languages: Java, C, C++, SQL, R
+- Databases: MySQL, Oracle 
 
-### **TECHNICAL SKILLS**
--Languages: Java, C, C++, SQL, R
--Databases: MySQL, Oracle 
--Web Technologies: HTML, CSS, JavaScript, jQuery, Angular 
--Software/Frameworks: Eclipse, JIRA, Microsoft Excel 
--Additional Skills: ITIL, Project Management, Bash shell scripting, Adobe Photoshop CC
+### **Technical Skills**
+- Languages: Java, C, C++, SQL, R
+- Databases: MySQL, Oracle 
+- Web Technologies: HTML, CSS, JavaScript, jQuery, Angular 
+- Software/Frameworks: Eclipse, JIRA, Microsoft Excel 
+- Additional Skills: ITIL, Project Management, Bash shell scripting, Adobe Photoshop CC
 
 
 ```markdown
