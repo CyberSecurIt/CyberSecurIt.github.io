@@ -1,12 +1,18 @@
 ## Welcome to GitHub Page of Arshiya Khan
 
-You can use the [editor on GitHub](https://github.com/CyberSecurIt/CyberSecurIt.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Introduction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- EDUCATION
+
+-TECHNICAL SKILLS
+▪ Languages: Java, C, C++, SQL, R
+▪ Databases: MySQL, Oracle 
+▪ Web Technologies: HTML, CSS, JavaScript, jQuery, Angular 
+▪ Software/Frameworks: Eclipse, JIRA, Microsoft Excel 
+▪ Additional Skills: ITIL, Project Management, Bash shell scripting, Adobe Photoshop CC
+
 
 ```markdown
 Syntax highlighted code block
