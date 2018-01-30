@@ -5,6 +5,8 @@
 ### Introduction
 
 - EDUCATION
+▪ Languages: Java, C, C++, SQL, R
+▪ Databases: MySQL, Oracle 
 
 -TECHNICAL SKILLS
 ▪ Languages: Java, C, C++, SQL, R
