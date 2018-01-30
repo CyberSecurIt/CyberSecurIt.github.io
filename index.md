@@ -1,10 +1,10 @@
-## Welcome to GitHub Page of
+## Welcome to GitHub Page of Arshiya Khan
 
 
 
 ### Introduction
 
-- EDUCATION
+-EDUCATION
 ▪ Languages: Java, C, C++, SQL, R
 ▪ Databases: MySQL, Oracle 
 
