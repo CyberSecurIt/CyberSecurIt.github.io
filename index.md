@@ -18,12 +18,16 @@
 
 ```markdown
 
-# Projects
+### **Projects**
 
+1. Museum Management System 
+2. Command Line Minesweeper 
+3. secure Email
 
-[Link](url) and ![Image](src)
+### **Link to Google Drive**
+[Project Files](https://drive.google.com/drive/u/1/folders/1yfZFyK21qba34eh3QVOfVZerYfcqbK9r)
 ```
 
 ### **Contact**
-- Email: arshiyak@udel.edu
+- Email: arshiyak@udel.edu, arshiyak9.mmmec@gmail.com
 - Mob: +13023176961
