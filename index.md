@@ -9,7 +9,7 @@
 - B. Tech.(Computer Sc. & Engg.): U. P. Technical Univerity, India (2010-2014)
 
 ### **Technical Skills**
-- Languages: Java, C, C++, SQL, R
+- Languages: Java, C, C++, SQL, R, Python
 - Databases: MySQL, Oracle 
 - Web Technologies: HTML, CSS, JavaScript, jQuery, Angular 
 - Software/Frameworks: Eclipse, JIRA, Microsoft Excel 
@@ -17,19 +17,9 @@
 
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Projects
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
