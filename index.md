@@ -16,7 +16,7 @@
 - Software/Frameworks: Eclipse, JIRA, Microsoft Excel 
 - Additional Skills: ITIL, Project Management, Bash shell scripting, Adobe Photoshop CC
 
-```
+```markdown
 
  ## Projects
 
@@ -26,11 +26,10 @@ Below is the list of some formally documented projects that I have worked on amo
 2. Command Line Minesweeper 
 3. secure Email
 
-```
 ## Link to Project Files (Google Drive)
 [Project Files](https://drive.google.com/drive/u/1/folders/1yfZFyK21qba34eh3QVOfVZerYfcqbK9r/)
 
-
+```
 
 ## Contact
 - Email: arshiyak@udel.edu, arshiyak9.mmmec@gmail.com
