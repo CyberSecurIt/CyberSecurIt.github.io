@@ -18,7 +18,7 @@
 
 ```markdown
 
-**Projects**
+## Projects
 
 Below is the list of some formally documented projects that I have worked on among other freelance projects.
 
