@@ -16,9 +16,9 @@
 - Software/Frameworks: Eclipse, JIRA, Microsoft Excel 
 - Additional Skills: ITIL, Project Management, Bash shell scripting, Adobe Photoshop CC
 
-```markdown
+```
 
- \## Projects
+ ## Projects
 
 Below is the list of some formally documented projects that I have worked on among other freelance projects.
 
