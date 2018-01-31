@@ -20,7 +20,7 @@
 
  ## Projects
 
-## Link to Project Files (Google Drive)
+## Projects
 [Project Files](https://drive.google.com/drive/u/1/folders/1yfZFyK21qba34eh3QVOfVZerYfcqbK9r/)
 
 Below is the list of some formally documented projects that I have worked on among other freelance projects.
