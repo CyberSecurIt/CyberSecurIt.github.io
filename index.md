@@ -16,7 +16,7 @@
 - Software/Frameworks: Eclipse, JIRA, Microsoft Excel 
 - Additional Skills: ITIL, Project Management, Bash shell scripting, Adobe Photoshop CC
 
-```javascript
+```markdown
 ## Projects
 
 Below is the list of some formally documented projects that I have worked on among other freelance projects.
@@ -26,7 +26,7 @@ Below is the list of some formally documented projects that I have worked on amo
 3. secure Email
 
 ## Link to Project Files (Google Drive)
-[Project Files](https://drive.google.com/drive/u/1/folders/1yfZFyK21qba34eh3QVOfVZerYfcqbK9r/)
+\[Project Files](https://drive.google.com/drive/u/1/folders/1yfZFyK21qba34eh3QVOfVZerYfcqbK9r/)
 
 ```
 
