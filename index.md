@@ -12,9 +12,8 @@
 **Technical Skills**
 - Languages: Java, C, C++, SQL, R, Python
 - Databases: MySQL, Oracle 
-- Web Technologies: HTML, CSS, JavaScript, jQuery, Angular 
-- Software/Frameworks: Eclipse, JIRA, Microsoft Excel 
-- Additional Skills: ITIL, Project Management, Bash shell scripting, Adobe Photoshop CC
+- Web Technologies: HTML, CSS, JavaScript, jQuery, React
+- Additional Skills: ITIL, Project Management, Bash shell scripting
 
 ```markdown
 
@@ -25,6 +24,7 @@ Below is the list of some formally documented projects that I have worked on amo
 1. Museum Management System 
 2. Command Line Minesweeper 
 3. secure Email
+4. TwitterBot Detection and Categorization
 
 ```
 ### Link to Project Files (Google Drive)
