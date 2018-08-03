@@ -33,5 +33,3 @@ Below is the list of some formally documented projects that I have worked on amo
 
 ### Contact
 - Email: arshiyak@udel.edu, arshiyak9.mmmec@gmail.com
-- Mob: +13023176961
-- Address: Apt-11 , 61 Thorn Ln, Newark DE 19711
