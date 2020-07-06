@@ -18,8 +18,8 @@
 
 ### Research Posters
 
-- [Sound Classification using 1D- Convolutional Neural Networks]()
-- [Defending against Adversarial Machine Learning In Image Recognition Models]()
+- [Sound Classification using 1D- Convolutional Neural Networks](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Posters/SoundClassification.pdf)
+- [Defending against Adversarial Machine Learning In Image Recognition Models](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Posters/DefenseAgainstMLAttacks.pdf)
 
 ```markdown
 
