@@ -22,8 +22,15 @@
 - [Defending against Adversarial Machine Learning In Image Recognition Models](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Posters/DefenseAgainstMLAttacks.pdf)
 
 ```markdown
+**Technical Skills**
 
-School Projects
+- Languages: Java, C, C++, SQL, R, Python
+- Databases: MySQL, Oracle
+- Web Technologies: HTML, CSS, JavaScript, jQuery, React
+- Additional Skills: ITIL, Project Management, Bash shell scripting
+```
+
+### School Projects
 
 Below is the list of some formally documented projects that I have worked on among other freelance projects.
 
@@ -32,7 +39,6 @@ Below is the list of some formally documented projects that I have worked on amo
 3. secure Email
 4. TwitterBot Detection and Categorization
 
-```
 ### Link to Project Files (Google Drive)
 [Project Files](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Projects)
 
