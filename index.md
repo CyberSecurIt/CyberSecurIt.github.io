@@ -6,7 +6,7 @@
 
 
 **Education**
-- Ph.D. (Cybersecurity), University of Delaware, Newark DE USA (2017-2019)
+- Ph.D. (Cybersecurity), University of Delaware, Newark DE USA (2019-ongoing)
 - M.S.(Cybersecurity), University of Delaware, Newark DE USA (2017-2019)
 - B. Tech.(Computer Sc. & Engg.), U. P. Technical Univerity, India (2010-2014)
 
@@ -16,9 +16,14 @@
 - Web Technologies: HTML, CSS, JavaScript, jQuery, React
 - Additional Skills: ITIL, Project Management, Bash shell scripting
 
+### Research Posters
+
+- [Sound Classification using 1D- Convolutional Neural Networks]()
+- [Defending against Adversarial Machine Learning In Image Recognition Models]()
+
 ```markdown
 
-## Projects
+School Projects
 
 Below is the list of some formally documented projects that I have worked on among other freelance projects.
 
