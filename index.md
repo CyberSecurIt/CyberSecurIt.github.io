@@ -2,7 +2,7 @@
 
 
 
-[**Goto LinkedIn**](https://www.linkedin.com/in/arshiyak9)
+[**Go to LinkedIn**](https://www.linkedin.com/in/arshiyak9)
 
 
 **Education**
