@@ -5,6 +5,12 @@
 [**Go to LinkedIn**](https://www.linkedin.com/in/arshiyak9)
 
 
+### Research Posters
+
+- [Sound Classification using 1D- Convolutional Neural Networks](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Posters/SoundClassification.pdf)
+- [Defending against Adversarial Machine Learning In Image Recognition Models](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Posters/DefenseAgainstMLAttacks.pdf)
+
+
 **Education**
 - Ph.D. (Cybersecurity), University of Delaware, Newark DE USA (2019-ongoing)
 - M.S.(Cybersecurity), University of Delaware, Newark DE USA (2017-2019)
@@ -13,10 +19,6 @@
 **M.S. Thesis**
 - [Expansive Taxonomy Model of network traffic to perform machine learning based tasks like anomaly detection and malware classification](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Projects/A%20FEATURE%20TAXONOMY%20FOR%20NETWORK%20TRAFFIC.pdf)
 
-### Research Posters
-
-- [Sound Classification using 1D- Convolutional Neural Networks](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Posters/SoundClassification.pdf)
-- [Defending against Adversarial Machine Learning In Image Recognition Models](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Posters/DefenseAgainstMLAttacks.pdf)
 
 ```markdown
 Technical Skills
