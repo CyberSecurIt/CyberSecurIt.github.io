@@ -10,15 +10,18 @@
 - [Sound Classification using 1D- Convolutional Neural Networks](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Posters/SoundClassification.pdf)
 - [Defending against Adversarial Machine Learning In Image Recognition Models](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Posters/DefenseAgainstMLAttacks.pdf)
 
+### Academic Projects
+
+Below is the list of some formally documented projects that I have worked on among other freelance projects.
+- [TwitterBot Detection and Categorization](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Projects/%23BotAttack.zip) 
+
+**M.S. Thesis**
+- [Expansive Taxonomy Model of network traffic to perform machine learning based tasks like anomaly detection and malware classification](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Projects/A%20FEATURE%20TAXONOMY%20FOR%20NETWORK%20TRAFFIC.pdf)
 
 **Education**
 - Ph.D. (Cybersecurity), University of Delaware, Newark DE USA (2019-ongoing)
 - M.S.(Cybersecurity), University of Delaware, Newark DE USA (2017-2019)
 - B. Tech.(Computer Sc. & Engg.), U. P. Technical Univerity, India (2010-2014)
-
-**M.S. Thesis**
-- [Expansive Taxonomy Model of network traffic to perform machine learning based tasks like anomaly detection and malware classification](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Projects/A%20FEATURE%20TAXONOMY%20FOR%20NETWORK%20TRAFFIC.pdf)
-
 
 ```markdown
 Technical Skills
@@ -32,13 +35,9 @@ Technical Skills
 ```
 
 ### School Projects
-
-Below is the list of some formally documented projects that I have worked on among other freelance projects.
-
-1. [TwitterBot Detection and Categorization](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Projects/%23BotAttack.zip) 
-2. [Museum Management System](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Projects/Museum.rar)
-3. [Command Line Minesweeper](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Projects/Minesweeper_ArshiyaKhan.cp.zip)
-4. [secure Email](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Projects/secureEmail.tar.gz)
+- [Museum Management System](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Projects/Museum.rar)
+- [Command Line Minesweeper](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Projects/Minesweeper_ArshiyaKhan.cp.zip)
+- [secure Email](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Projects/secureEmail.tar.gz)
 
 
 ### Contact
