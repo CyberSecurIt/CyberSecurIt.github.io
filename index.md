@@ -1,6 +1,6 @@
 ## Welcome to GitHub Page of Arshiya Khan
 
-[Resume](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Arshiya_khan_resume_June16.docx)
+[Resume](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Arshiya_khan_resume_June16.pdf)
 
 [**Go to LinkedIn**](https://www.linkedin.com/in/arshiyak9)
 
