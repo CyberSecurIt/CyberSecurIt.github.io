@@ -2,17 +2,17 @@
 
 [Resume](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Arshiya_khan_resume_June16.pdf)
 
-[**Go to LinkedIn**](https://www.linkedin.com/in/arshiyak9)
+[Go to LinkedIn](https://www.linkedin.com/in/arshiyak9)
+
+[Blog](https://arshiyak.medium.com/)
 
 
-### Research Posters
 
+### Academic Projects & Posters
+
+Below is the list of some formally documented projects that I have worked on.
 - [Sound Classification using 1D- Convolutional Neural Networks](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Posters/SoundClassification.pdf)
 - [Defending against Adversarial Machine Learning In Image Recognition Models](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Posters/DefenseAgainstMLAttacks.pdf)
-
-### Academic Projects
-
-Below is the list of some formally documented projects that I have worked on among other freelance projects.
 - [TwitterBot Detection and Categorization](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Projects/%23BotAttack.zip) 
 
 **M.S. Thesis**
