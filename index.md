@@ -13,7 +13,7 @@
 Below is the list of some formally documented projects that I have worked on.
 - [Sound Classification using 1D- Convolutional Neural Networks](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Posters/SoundClassification.pdf)
 - [Defending against Adversarial Machine Learning In Image Recognition Models](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Posters/DefenseAgainstMLAttacks.pdf)
-- [TwitterBot Detection and Categorization](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Projects/%23BotAttack.zip) 
+- [TwitterBot Detection and Categorization](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Projects/%23BotAttack) 
 
 **M.S. Thesis**
 - [Expansive Taxonomy Model of network traffic to perform machine learning based tasks like anomaly detection and malware classification](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Projects/A%20FEATURE%20TAXONOMY%20FOR%20NETWORK%20TRAFFIC.pdf)
