@@ -31,7 +31,7 @@ Technical Skills
 
 - ML Software/Frameworks: Tensorflow, Keras, Google Firebase
 - Cybersecurity Software/Frameworks: pwntools, Git, JIRA
-- ML Tools: Jupyter notebook, 
+- ML Tools: OpenCV, PIL, Pandas, Numpy, scikit-learn, Matplotlib, NLP, Google Colab, Jupyter Notebook
 - Cybersecurity Tools: Docker, Radare2, Zeek, Wireshark, Snort, Burp Suite, Metasploit
 - Languages: R, Python, Java, C, C++, SQL, 
 - Databases: MySQL, Oracle, SQLite
