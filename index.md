@@ -7,6 +7,9 @@
 [Blog](https://arshiyak.medium.com/)
 
 
+### Publication
+A. Khan and C. Cotton, "Detecting Attacks on IoT Devices using Featureless 1D-CNN," 2021 IEEE International Conference on Cyber Security and Resilience (CSR), 2021, pp. 461-466, doi: 10.1109/CSR51186.2021.9527910.
+[Preprint](https://arxiv.org/abs/2109.03989)
 
 ### Academic Projects & Posters
 
@@ -26,18 +29,15 @@ Below is the list of some formally documented projects that I have worked on.
 ```markdown
 Technical Skills
 
-- Software/Frameworks: Tensorflow, Keras, Google Firebase, pwntools, Git, JIRA
-- Tools: Jupyter notebook, Docker, Radare2, Zeek, Wireshark, Snort, Burp Suite, Metasploit
+- ML Software/Frameworks: Tensorflow, Keras, Google Firebase
+- Cybersecurity Software/Frameworks: pwntools, Git, JIRA
+- ML Tools: Jupyter notebook, 
+- Cybersecurity Tools: Docker, Radare2, Zeek, Wireshark, Snort, Burp Suite, Metasploit
 - Languages: R, Python, Java, C, C++, SQL, 
 - Databases: MySQL, Oracle, SQLite
 - Web Technologies: jQuery, React, HTML, CSS, JavaScript
-- Additional Skills: ITIL, Project Management, Bash shell scripting
+- Certifications : JPMC Data for Good Hackathon 2021, ITIL Foundation 2017
 ```
-
-### School Projects
-- [Museum Management System](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Projects/Museum.rar)
-- [Command Line Minesweeper](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Projects/Minesweeper_ArshiyaKhan.cp.zip)
-- [secure Email](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Projects/secureEmail.tar.gz)
 
 
 ### Contact
