@@ -6,6 +6,11 @@
 
 [Blog](https://arshiyak.medium.com/)
 
+**Education**
+- Ph.D. (Cybersecurity), University of Delaware, Newark DE USA (2019-current)
+- M.S.(Cybersecurity), University of Delaware, Newark DE USA (2017-2019)
+- B. Tech.(Computer Sc. & Engg.), U. P. Technical Univerity, India (2010-2014)
+
 
 ### Publication
 A. Khan and C. Cotton, "Detecting Attacks on IoT Devices using Featureless 1D-CNN," 2021 IEEE International Conference on Cyber Security and Resilience (CSR), 2021, pp. 461-466, doi: 10.1109/CSR51186.2021.9527910.
@@ -21,10 +26,6 @@ Below is the list of some formally documented projects that I have worked on.
 **M.S. Thesis**
 - [Expansive Taxonomy Model of network traffic to perform machine learning based tasks like anomaly detection and malware classification](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Projects/A%20FEATURE%20TAXONOMY%20FOR%20NETWORK%20TRAFFIC.pdf)
 
-**Education**
-- Ph.D. (Cybersecurity), University of Delaware, Newark DE USA (2019-ongoing)
-- M.S.(Cybersecurity), University of Delaware, Newark DE USA (2017-2019)
-- B. Tech.(Computer Sc. & Engg.), U. P. Technical Univerity, India (2010-2014)
 
 ```markdown
 Technical Skills
@@ -42,3 +43,4 @@ Technical Skills
 
 ### Contact
 - Email: arshiyak@udel.edu, arshiyak9.mmmec@gmail.com
+- Mob: +1(302)-317-6961
