@@ -8,8 +8,8 @@
 
 ### Education
 - Ph.D. (Cybersecurity), University of Delaware, Newark DE USA (2019-current)
-- M.S.(Cybersecurity), University of Delaware, Newark DE USA (2017-2019)
-- B. Tech.(Computer Sc. & Engg.), U. P. Technical Univerity, India (2010-2014)
+- M.S. (Cybersecurity), University of Delaware, Newark DE USA (2017-2019)
+- B. Tech. (Computer Science), U. P. Technical Univerity, India (2010-2014)
 
 
 ### Publication
