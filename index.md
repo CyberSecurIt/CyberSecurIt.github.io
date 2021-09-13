@@ -6,7 +6,7 @@
 
 [Blog](https://arshiyak.medium.com/)
 
-**Education**
+### Education
 - Ph.D. (Cybersecurity), University of Delaware, Newark DE USA (2019-current)
 - M.S.(Cybersecurity), University of Delaware, Newark DE USA (2017-2019)
 - B. Tech.(Computer Sc. & Engg.), U. P. Technical Univerity, India (2010-2014)
@@ -23,7 +23,7 @@ Below is the list of some formally documented projects that I have worked on.
 - [Defending against Adversarial Machine Learning In Image Recognition Models](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Posters/DefenseAgainstMLAttacks.pdf)
 - [TwitterBot Detection and Categorization](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Projects/%23BotAttack.pdf) 
 
-**M.S. Thesis**
+### M.S. Thesis
 - [Expansive Taxonomy Model of network traffic to perform machine learning based tasks like anomaly detection and malware classification](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Projects/A%20FEATURE%20TAXONOMY%20FOR%20NETWORK%20TRAFFIC.pdf)
 
 
