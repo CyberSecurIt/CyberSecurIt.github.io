@@ -1,7 +1,10 @@
 ## Welcome to GitHub Page of Arshiya Khan
 
-[Resume](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Arshiya_khan_resume_Sept28.pdf) | [LinkedIn](https://www.linkedin.com/in/arshiyak9)
- | [Blog](https://arshiyak.medium.com/)
+[Resume](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Arshiya_khan_resume_Sept28.pdf)
+
+[LinkedIn](https://www.linkedin.com/in/arshiyak9)
+
+[Blog](https://arshiyak.medium.com/)
 
 ### Education
 - Ph.D. (Cybersecurity), University of Delaware, Newark DE USA (2019-current)
