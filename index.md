@@ -4,7 +4,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/arshiyak9)
 
-[Blog](https://arshiyak.medium.com/)
+[Medium Blog](https://arshiyak.medium.com/)
 
 ### Education
 - Ph.D. (Cybersecurity), University of Delaware, Newark DE USA (2019-current)
