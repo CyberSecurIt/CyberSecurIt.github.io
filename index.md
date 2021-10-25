@@ -1,6 +1,6 @@
 ## Welcome to GitHub Page of Arshiya Khan
 
-[Resume](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Arshiya_khan_resume_Sept28.pdf)
+[Resume](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Arshiya_khan_resume.pdf)
 
 [LinkedIn](https://www.linkedin.com/in/arshiyak9)
 
@@ -27,20 +27,34 @@ Below is the list of some formally documented projects that I have worked on.
 ### M.S. Thesis
 [Expansive Taxonomy Model of network traffic to perform machine learning based tasks like anomaly detection and malware classification](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Projects/A%20FEATURE%20TAXONOMY%20FOR%20NETWORK%20TRAFFIC.pdf)
 
-
+### ML Skills
 ```markdown
-Technical Skills
 
-- ML Software/Frameworks: Tensorflow, Keras, Google Firebase
-- Cybersecurity Software/Frameworks: pwntools, Git, JIRA
-- ML Tools: OpenCV, PIL, Pandas, Numpy, scikit-learn, Matplotlib, NLP, Google Colab, Jupyter Notebook
-- Cybersecurity Tools: Docker, Radare2, Zeek, Wireshark, Snort, Burp Suite, Metasploit
+- Software/Frameworks: Tensorflow, Keras, Google Firebase
+- Tools: OpenCV, PIL, Pandas, Numpy, scikit-learn, Matplotlib, NLP, Google Colab, Jupyter Notebook
 - Languages: R, Python, Java, C, C++, SQL, 
-- Databases: MySQL, Oracle, SQLite
-- Web Technologies: jQuery, React, HTML, CSS, JavaScript
-- Certifications : JPMC Data for Good Hackathon 2021, ITIL Foundation 2017
+
 ```
 
+### Cybersecurity Skills
+```markdown
+
+- Cybersecurity Software/Frameworks: pwntools, Git, JIRA
+- Cybersecurity Tools: Docker, Radare2, Zeek, Wireshark, Snort, Burp Suite, Metasploit
+
+```
+
+### Other Skills
+```markdown
+
+- Databases: MySQL, Oracle, SQLite
+- Web Technologies: jQuery, React, HTML, CSS, JavaScript
+
+```
+
+### Certifications
+- JPMC Data for Good Hackathon 2021
+- ITIL Foundation 2017
 
 ### Contact
 - Email: arshiyak@udel.edu, arshiyak9.mmmec@gmail.com
