@@ -32,7 +32,7 @@ Below is the list of some formally documented projects that I have worked on.
 
 - Software/Frameworks: Tensorflow, Keras, Google Firebase
 - Tools: OpenCV, PIL, Pandas, Numpy, scikit-learn, Matplotlib, NLP, Google Colab, Jupyter Notebook
-- Languages: R, Python, Java, C, C++, SQL, 
+- Languages: R, Python, MATLAB, Java, C, C++, SQL
 
 ```
 
