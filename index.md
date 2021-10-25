@@ -7,7 +7,7 @@
 [Medium Blog](https://arshiyak.medium.com/)
 
 ### Education
-- Ph.D. (Cybersecurity), University of Delaware, Newark DE USA (2019-current)
+- Ph.D. (Network and Data Science), University of Delaware, Newark DE USA (2019-present)
 - M.S. (Cybersecurity), University of Delaware, Newark DE USA (2017-2019)
 - B. Tech. (Computer Science), U. P. Technical Univerity, India (2010-2014)
 
@@ -30,7 +30,7 @@ Below is the list of some formally documented projects that I have worked on.
 ### ML Skills
 ```markdown
 
-- Software/Frameworks: Tensorflow, Keras, Google Firebase
+- Software/Frameworks: PyTorch, TensorFlow, Keras, Transformers, 
 - Tools: OpenCV, PIL, Pandas, Numpy, scikit-learn, Matplotlib, NLP, Google Colab, Jupyter Notebook
 - Languages: R, Python, MATLAB, Java, C, C++, SQL
 
@@ -39,7 +39,7 @@ Below is the list of some formally documented projects that I have worked on.
 ### Cybersecurity Skills
 ```markdown
 
-- Cybersecurity Software/Frameworks: pwntools, Git, JIRA
+- Cybersecurity Frameworks: pwntools, NIST
 - Cybersecurity Tools: Docker, Radare2, Zeek, Wireshark, Snort, Burp Suite, Metasploit
 
 ```
@@ -47,6 +47,7 @@ Below is the list of some formally documented projects that I have worked on.
 ### Other Skills
 ```markdown
 
+- Frameworks: Google Firebase, AWS, Git, JIRA
 - Databases: MySQL, Oracle, SQLite
 - Web Technologies: jQuery, React, HTML, CSS, JavaScript
 
