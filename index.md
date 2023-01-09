@@ -21,7 +21,7 @@ Khan, Arshiya, and Chase Cotton. “Efficient Attack Detection in IOT Devices Us
 ### Academic Projects & Posters
 
 Below is the list of some formally documented projects that I have worked on.
-- [Sound Classification using 1D- Convolutional Neural Networks](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Posters/SoundClassification.pdf)
+- [Sound Classification using 1D-Convolutional Neural Networks](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Posters/SoundClassification.pdf)
 - [Defending against Adversarial Machine Learning In Image Recognition Models](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Posters/DefenseAgainstMLAttacks.pdf)
 - [TwitterBot Detection and Categorization](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Projects/%23BotAttack.pdf) 
 
