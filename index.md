@@ -16,7 +16,7 @@
 A. Khan and C. Cotton, "Detecting Attacks on IoT Devices using Featureless 1D-CNN," 2021 IEEE International Conference on Cyber Security and Resilience (CSR), 2021, pp. 461-466, doi: 10.1109/CSR51186.2021.9527910<br/>
 [arXiv Preprint](https://arxiv.org/abs/2109.03989)
 
-Khan, Arshiya, and Chase Cotton. “Efficient Attack Detection in IOT Devices Using Feature Engineering-Less Machine Learning.” International Journal of Computer Science and Information Technology, vol. 14, no. 6, 2022, pp. 47–64., https://doi.org/10.5121/ijcsit.2022.14605.
+Khan, Arshiya, and Chase Cotton. “Efficient Attack Detection in IOT Devices Using Feature Engineering-Less Machine Learning.” International Journal of Computer Science and Information Technology, vol. 14, no. 6, 2022, pp. 47–64., [https://doi.org/10.5121/ijcsit.2022.14605](https://doi.org/10.5121/ijcsit.2022.14605).
 
 ### Academic Projects & Posters
 
