@@ -1,10 +1,11 @@
 ## Welcome to GitHub Page of Arshiya Khan
 
-[Medium Blog](https://arshiyak.medium.com/)
+
 
 [Resume](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Arshiya_khan_resume.pdf)
 
 [LinkedIn](https://www.linkedin.com/in/arshiyak9)
+[Medium Blog](https://arshiyak.medium.com/)
 
 
 ### ML Skills
