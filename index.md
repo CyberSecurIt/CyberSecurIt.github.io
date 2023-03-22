@@ -51,10 +51,15 @@ Below is the list of some formally documented projects that I have worked on.
 ### M.S. Thesis
 [Expansive Taxonomy Model of network traffic to perform machine learning based tasks like anomaly detection and malware classification](https://www.proquest.com/docview/2308191862?pq-origsite=gscholar&fromopenview=true)
 
-### Talks and Presentations
+### Talks and Webinar
 
 Webinar
-- [International Webinar on "Offense vs. Defense: How to differentiate between offensive and defensive modes of cyber activity"]
+- [International Webinar on "Offense vs. Defense: How to differentiate between offensive and defensive modes of cyber activity"](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Talks%20and%20Presentations/offenceVsDefence.pdf)
+- [Seminar on "Phishing Attacks" at English Language Institure at University of Delaware](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Talks%20and%20Presentations/Phishing.pdf)
+Internal Talks
+- [Novelty Search in Evolutionary Computations](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Talks%20and%20Presentations/Novelty%20Search%20in%20Evolutionary%20Computations.pdf)
+- [Foundations of GPT-3](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Talks%20and%20Presentations/gpt3.pdf)
+
 
 ### Certifications
 - JPMC Data for Good Hackathon 2021
