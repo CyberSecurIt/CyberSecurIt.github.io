@@ -1,5 +1,7 @@
 ## Welcome to GitHub Page of Arshiya Khan
 
+[Google Scholar](https://scholar.google.com/citations?user=Jz96BT4AAAAJ)
+
 [Medium Blog](https://arshiyak.medium.com/)
 
 [Resume](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Arshiya_khan_resume.pdf)
