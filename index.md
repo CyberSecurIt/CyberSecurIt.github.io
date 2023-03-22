@@ -51,7 +51,10 @@ Below is the list of some formally documented projects that I have worked on.
 ### M.S. Thesis
 [Expansive Taxonomy Model of network traffic to perform machine learning based tasks like anomaly detection and malware classification](https://www.proquest.com/docview/2308191862?pq-origsite=gscholar&fromopenview=true)
 
+### Talks and Presentations
 
+Webinar
+- [International Webinar on "Offense vs. Defense: How to differentiate between offensive and defensive modes of cyber activity"]
 
 ### Certifications
 - JPMC Data for Good Hackathon 2021
