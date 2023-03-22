@@ -58,6 +58,7 @@ Below is the list of some formally documented projects that I have worked on.
 Webinar
 - [International Webinar on "Offense vs. Defense: How to differentiate between offensive and defensive modes of cyber activity"](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Talks%20and%20Presentations/offenceVsDefence.pdf)
 - [Seminar on "Phishing Attacks" at English Language Institure at University of Delaware](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Talks%20and%20Presentations/Phishing.pdf)
+
 Internal Talks
 - [Novelty Search in Evolutionary Computations](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Talks%20and%20Presentations/Novelty%20Search%20in%20Evolutionary%20Computations.pdf)
 - [Foundations of GPT-3](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Talks%20and%20Presentations/gpt3.pdf)
