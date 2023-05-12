@@ -1,1 +1,0 @@
-List of research posters
