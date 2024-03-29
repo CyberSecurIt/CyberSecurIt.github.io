@@ -1,5 +1,3 @@
-## Welcome to GitHub Page of Arshiya Khan
-
 [Google Scholar](https://scholar.google.com/citations?user=Jz96BT4AAAAJ)
 
 [Medium Blog](https://arshiyak.medium.com/)
@@ -9,31 +7,24 @@
 [LinkedIn](https://www.linkedin.com/in/arshiyak9)
 
 
-
 ### ML Skills
 ```markdown
-
 - Software/Frameworks: PyTorch, TensorFlow, Keras, Transformers, 
 - Tools: OpenCV, PIL, Pandas, Numpy, scikit-learn, Matplotlib, NLP, Google Colab, Jupyter Notebook
 - Languages: R, Python, MATLAB, Java, C, C++, SQL
-
 ```
 
 ### Cybersecurity Skills
 ```markdown
-
 - Cybersecurity Frameworks: pwntools, NIST
 - Cybersecurity Tools: Docker, Radare2, Zeek, Wireshark, Snort, Burp Suite, Metasploit
-
 ```
 
 ### Other Skills
 ```markdown
-
 - Frameworks: Google Firebase, AWS, Git, JIRA
 - Databases: MySQL, Oracle, SQLite
 - Web Technologies: jQuery, React, HTML, CSS, JavaScript
-
 ```
 
 
